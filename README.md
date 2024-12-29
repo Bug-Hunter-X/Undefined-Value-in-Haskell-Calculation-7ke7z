@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Haskell programming: attempting to use an undefined value in a calculation.  The `bug.hs` file contains the erroneous code, which leads to a runtime exception. The solution, `bugSolution.hs`, shows how to use pattern matching or default values to prevent this type of error.
